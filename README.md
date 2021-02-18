@@ -1,0 +1,2 @@
+# springcloud_provider_consumer_case
+一个springboot2.4 实现springcloud-zureka实现的服务提供者/消费则小案例
